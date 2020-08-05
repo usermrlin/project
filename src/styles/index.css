@@ -1,0 +1,11 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.am-tabs-tab-bar-wrap {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
